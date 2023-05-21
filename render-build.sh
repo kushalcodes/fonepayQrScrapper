@@ -1,3 +1,5 @@
+# fixed build issues on render.com from here: https://community.render.com/t/error-could-not-found-chromium/9848/6
+
 #!/usr/bin/env bash
 # exit on errorset -o errexit
 
